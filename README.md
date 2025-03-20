@@ -1,0 +1,1 @@
+# CVE_2022_38181-Mali-SAMSUNG-S6-Lite-Tablet
